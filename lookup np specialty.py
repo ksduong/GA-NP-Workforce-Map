@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-Script to look up Nurse Practitioner specialties from NPI Registry and other sources.
-"""
-
 import csv
 import requests
 import time
